@@ -1,0 +1,63 @@
+{"results":[
+    {
+        "gender":"female",
+        "name":{
+            "title":"Mrs",
+            "first":"Uirá",
+            "last":"Monteiro"
+        },
+        "location":{
+            "street":{
+                "number":3123,
+                "name":"Rua Dezesseis de Maio"
+            },
+            "city":"Igarassu",
+            "state":"Paraná",
+            "country":"Brazil",
+            "postcode":34669,
+            "coordinates":{
+                "latitude":"-75.4927",
+                "longitude":"172.8568"
+            },
+            "timezone":{
+                "offset":"+10:00",
+                "description":"Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "email":"uira.monteiro@example.com",
+        "login":{
+            "uuid":"e97f4467-4ee7-40c3-9043-378a2d98de8d",
+            "username":"brownelephant538",
+            "password":"cookie",
+            "salt":"65EcVogd",
+            "md5":"691e0b7e49945e305d71ea7a62e879d7",
+            "sha1":"cc2fe1facee5b17e86d7d232a00ca514131bdc6a",
+            "sha256":"a79206d20a65ebd32468e10c947e43111a404a294ba5cfe4f8be210177e36dbb"
+        },
+        "dob":{
+            "date":"1976-03-21T18:20:46.987Z",
+            "age":46
+        },
+        "registered":{
+            "date":"2015-06-24T17:52:15.720Z",
+            "age":7
+        },
+        "phone":"(85) 5885-8360",
+        "cell":"(42) 4659-1062",
+        "id":{
+            "name":"CPF",
+            "value":"181.786.595-11"
+        },
+        "picture":{
+            "large":"https://randomuser.me/api/portraits/women/14.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/women/14.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/women/14.jpg"
+        },
+        "nat":"BR"
+    }],
+    "info":{
+        "seed":"ccb1e54f0c9f68c6",
+        "results":1,
+        "page":1,
+        "version":"1.4"}
+}
